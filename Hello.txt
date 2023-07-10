@@ -1,0 +1,2 @@
+This is the new line!
+And Hello world is no more!
